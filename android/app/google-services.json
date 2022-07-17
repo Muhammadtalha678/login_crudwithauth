@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640291396160",
+    "project_id": "lastcrudtest",
+    "storage_bucket": "lastcrudtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640291396160:android:f89952da0b4ae44ab99da5",
+        "android_client_info": {
+          "package_name": "com.example.lasttimecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640291396160-3mkrig6qc31hb9gere8gggo8aj8sfkhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZEWhL1SIADd6Y7V8wLnuaqj32eNEqfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640291396160-3mkrig6qc31hb9gere8gggo8aj8sfkhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
